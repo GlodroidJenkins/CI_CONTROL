@@ -1,5 +1,5 @@
 ---
-name: Build request
+name: next
 about: Specify the release version in the issue title, the branch name or tag of release
   version and the build platforms to the issue description.  Press the "Submit new
   issue" button.
